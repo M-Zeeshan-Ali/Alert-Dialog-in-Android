@@ -1,4 +1,0 @@
-Android Activity
-
-- jhkjhkjh
-- lkhjkjhj
